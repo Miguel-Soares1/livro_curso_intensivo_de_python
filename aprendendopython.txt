@@ -1,0 +1,3 @@
+No python, podemos fazer diversas funcoes 
+como desenvolvimento web, game dev, inteligencia artificial, 
+etc..
